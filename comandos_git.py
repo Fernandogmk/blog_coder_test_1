@@ -42,3 +42,7 @@ git.mostrar_comandos()
 # git branch
 # juntar ramas en main:
 # git merge "funciones-nuevas"
+
+
+# instalacion de django 
+# pip install django
